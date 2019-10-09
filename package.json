@@ -1,0 +1,19 @@
+{
+  "name": "alfredtesis",
+  "version": "1.0.0",
+  "description": "Administrador de peticiones para la unificación de tecnologías en la tesis de Alfred",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayistikar/AlfredTesis.git"
+  },
+  "author": "Anderson R.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mayistikar/AlfredTesis/issues"
+  },
+  "homepage": "https://github.com/Mayistikar/AlfredTesis#readme"
+}
